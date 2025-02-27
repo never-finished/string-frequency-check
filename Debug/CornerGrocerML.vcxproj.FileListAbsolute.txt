@@ -1,0 +1,2 @@
+\\apporto.com\dfs\SNHU\USERS\michaellewis7_snhu\Documents\CS210\CornerGrocerML\Debug\CornerGrocerML.exe
+\\apporto.com\dfs\SNHU\USERS\michaellewis7_snhu\Documents\CS210\CornerGrocerML\Debug\CornerGrocerML.pdb
